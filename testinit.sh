@@ -1,2 +1,2 @@
-code --install-extension charliermarsh.ruff
+code-server --install-extension charliermarsh.ruff
 pip install pytest
